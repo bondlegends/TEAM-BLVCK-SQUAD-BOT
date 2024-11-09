@@ -48,8 +48,8 @@
 <a href="https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://t.me/deecee_x"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /><br>
 <p align="center">
-<img alt="Development" width="250" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<img alt="Development" width="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDRjZmk0eWJvbW4wamhhN3c2OWJmdTV5OWs0czZoaG1yam5xbXEwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6kna1cMz5KbImv6rkq/giphy-downsized-large.gif" /> </p>
+<a><img src='https://imgur.com/a/gFeldXp'/></a><a><img src='https://imgur.com/a/gFeldXp'/></a>
 # 
 
 <br>
