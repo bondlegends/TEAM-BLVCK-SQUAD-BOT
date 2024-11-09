@@ -10,36 +10,9 @@
  </p>
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-DAVID_CYRIL-red.svg?style=for-the-badge&logo=github"></a>
-</p>
-<p align="center">
-<a href="https://github.com/DeeCeeXxx/Queen_Anita-V3/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DeeCeeXxx/Queen_Anita-V3?color=blue&style=flat-square"></a>
-<a href="https://github.com/DeeCeeXxx/Queen_Anita-V3/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DeeCeeXxx/Queen_Anita-V3?color=yellow&style=flat-square"></a>
-<a href="https://github.com/DeeCeeXxx/Queen_Anita-V3/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DeeCeeXxx/Queen_Anita-V3?label=Watchers&color=red&style=flat-square"></a>
-<a href="https://github.com/DeeCeeXxx/Queen_Anita-V3/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-Yes-red.svg"></a>&nbsp;&nbsp;
-</p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-#
+</p
 
-## Queen_Anita-V3 Deployment Methods
----
-1.  **Fork Repo First, [`CLICK HERE`](https://github.com/DeeCeeXxx/Queen_Anita-V3/fork) (A MUST) and `Star ⭐ Repository` for Courage.**
-2.  **Get `SESSION ID` ON [`REPLIT`](https://replit.com/@deeceexxx01/DavidCyril-X-pair-1)** 
 
-3. **UPLOAD YOUR CREDS.JSON FILE ON SESSION FOLDER**
-
-4. **Deploy on [`SCALINGO`](https://dashboard.scalingo.com)**
-
-5. **Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template*=https://github.com/DeeCeeXxx/Queen_Anita-V3)** 
-
-6. **Deploy on [`REPLIT`](https://replit.com/github/Deeceexxx/Queen_Anita-V2)** 
-
-7. **Deploy on [`RAILWAY`](https://railway.com/github/Deeceexxx/Queen_Anita-V2)**  
-
-8. **You can visit Bot whatsapp channel [`BY CLICKING HERE`](https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L) for more**
-
-9. **All Tutorials Here [`Click Here`](https://www.youtube.com/@DavidCyril_TECH)**
-
-</a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
  <br> 
@@ -50,30 +23,4 @@
 <p align="center">
 <img alt="Development" width="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDRjZmk0eWJvbW4wamhhN3c2OWJmdTV5OWs0czZoaG1yam5xbXEwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6kna1cMz5KbImv6rkq/giphy-downsized-large.gif" /> </p>
 <a><img src='https://imgur.com/a/gFeldXp'/></a><a><img src='https://imgur.com/a/gFeldXp'/></a>
-# 
 
-<br>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-* [🧑‍💻 Follow Queen_Anita-V3 Whatsapp Channel🧑‍💻](https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L)
-
-* [🧑‍💻 Join Queen_Anita-V3 Telegram Group 🧑‍💻](https://t.me/dctech)
-
-* [✅ Join Public Group ⚡](https://chat.whatsapp.com/KLu7a2r4bc4JFV8s5epvsF)
-
-  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-  
-
-- *Queen_Anita-V3 is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
-- *In that case, I'm not responsible for banning your account.*
-- *Use Queen_Anita-V3 at your own risk by keeping this warning in mind.*
-  
-  #### ```DAVID CYRIL PROFILE VIEWS 🧚```
-![Visitor Count](https://profile-counter.glitch.me/DeeCeeXxx/count.svg)
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-## Community and Support
-
-FOLLOW DAVID CYRIL WHAtSAPP CHANNEL FOR MORE UPDATES
-[![JOIN WHATSAPP GROUP](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L))
