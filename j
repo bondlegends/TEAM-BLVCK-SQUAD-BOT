@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+body{
+    background: linear-gradient(rgba(0,0,0,0.4)50%,rgba(0,0,0,0.4)50%), url(2.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
