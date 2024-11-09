@@ -23,5 +23,5 @@
 <a href="https://t.me/deecee_x"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /><br>
 <p align="center">
 <img alt="Development" width="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDRjZmk0eWJvbW4wamhhN3c2OWJmdTV5OWs0czZoaG1yam5xbXEwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6kna1cMz5KbImv6rkq/giphy-downsized-large.gif" /> </p>
-<a><img src='https://imgur.com/a/gFeldXp'/></a><a><img src='https://imgur.com/a/gFeldXp'/></a>
-
+ <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<p align="center"> 
